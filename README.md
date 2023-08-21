@@ -16,7 +16,7 @@ To get started with the development or deployment of the front-end, please follo
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/EladSapir/Frontend_Project.git
+   git clone https://github.com/YossiElgazari/Bump-frontend.git
    ```
 
 2. Navigate to the project directory:
